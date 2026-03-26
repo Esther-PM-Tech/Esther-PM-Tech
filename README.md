@@ -12,6 +12,7 @@ I am a Product Manager with a background in Economics, currently evolving into a
 
 ## 🛠️ Tech Stack & Tools
 ✨ Product and Design: Notion, Trello, Jira, Linear, ClickUp, Figma, Miro
+
 🔗 Technical Foundations: SQL, JavaScript, HTML, CSS, Git
 
 ## 🌱 Currently Exploring (DevOps Journey)
@@ -37,7 +38,7 @@ EcoClean: Designed an IoT-based waste management system to optimize urban sanita
 
 🐦 Follow my journey on [Twitter](https://x.com/iTekXx)
 
-## ⚡ Fun Fact: I'm a bookstagram enthusiast—if I'm not debugging or writing PRDs, I'm probably devouring a dark romance novel.🙂
+#### ⚡Fun Fact: I'm a bookstagram enthusiast—if I'm not debugging or writing PRDs, I'm probably devouring a dark romance novel.
 
 
 <!--
