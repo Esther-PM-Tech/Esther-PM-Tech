@@ -38,8 +38,6 @@ EcoClean: Designed an IoT-based waste management system to optimize urban sanita
 
 🐦 Follow my journey on [Twitter](https://x.com/iTekXx)
 
-#### ⚡Fun Fact: I'm a bookstagram enthusiast—if I'm not debugging or writing PRDs, I'm probably devouring a dark romance novel.
-
 
 <!--
 
