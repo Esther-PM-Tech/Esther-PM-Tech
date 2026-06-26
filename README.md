@@ -1,5 +1,5 @@
 # Hi, I'm Esther! 👋
-I am a Product Manager with a background in Economics, currently evolving into a DevOps Engineer. I thrive at the intersection of product strategy and technical infrastructure, driven by a curiosity for how scalable systems power great user experiences.
+I am a Product Manager with a background in Economics, currently exploring DevOps Engineering. I thrive at the intersection of product strategy and technical infrastructure, driven by a curiosity for how scalable systems power great user experiences.
 
 ## 🚀 About Me
 🏗️ Product Lead: Recently led the development of Legal Watchdog, an AI-powered compliance monitoring platform.
